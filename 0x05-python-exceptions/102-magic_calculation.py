@@ -1,8 +1,4 @@
 #!/usr/bin/python3
-
-"""python function to produce given bytecode"""
-
-
 def magic_calculation(a,b):
     result = 0
 
